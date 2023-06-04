@@ -3,7 +3,7 @@
 # Ürün İle İlgili Bilgiler
 
 # Takım Elemeanları
-   * Betül ERSAN / Scrum Master /
+   * Betül ERSAN / Scrum Master / Developer
    * Erhan GÖCEN / Developer
    * Mustafa GÜLTEKİN / Developer
    * Mürüvvet TOPSAKAL / Developer
